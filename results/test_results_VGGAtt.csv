@@ -1,0 +1,99 @@
+Class,Sensitivity,Precision
+Class 0
+Sensitivity,0.955
+Precision,0.7958333333333333
+Mean Sensitivity,0.955
+Mean Precision,0.7958333333333333
+Class 1
+Sensitivity,0.345
+Precision,0.44516129032258067
+Mean Sensitivity,0.6499999999999999
+Mean Precision,0.620497311827957
+Class 2
+Sensitivity,0.9
+Precision,0.9473684210526315
+Mean Sensitivity,0.7333333333333333
+Mean Precision,0.7294543482361818
+Class 3
+Sensitivity,0.68
+Precision,0.8143712574850299
+Mean Sensitivity,0.72
+Mean Precision,0.7506835755483938
+Class 4
+Sensitivity,0.59
+Precision,0.3597560975609756
+Mean Sensitivity,0.694
+Mean Precision,0.6724980799509102
+Class 5
+Sensitivity,0.895
+Precision,0.9470899470899471
+Mean Sensitivity,0.7275
+Mean Precision,0.7182633911407498
+Class 6
+Sensitivity,0.39
+Precision,0.5954198473282443
+Mean Sensitivity,0.6792857142857143
+Mean Precision,0.700714313453249
+Class 7
+Sensitivity,0.705
+Precision,0.7540106951871658
+Mean Sensitivity,0.6825
+Mean Precision,0.7073763611699885
+Class 8
+Sensitivity,0.765
+Precision,0.68
+Mean Sensitivity,0.6916666666666667
+Mean Precision,0.7043345432622119
+Class 9
+Sensitivity,0.775
+Precision,0.670995670995671
+Mean Sensitivity,0.7
+Mean Precision,0.7010006560355578
+Class 10
+Sensitivity,0.785
+Precision,0.5902255639097744
+Mean Sensitivity,0.7077272727272728
+Mean Precision,0.6909301931150321
+Class 11
+Sensitivity,0.62
+Precision,0.7560975609756098
+Mean Sensitivity,0.7004166666666666
+Mean Precision,0.6963608071034136
+Class 12
+Sensitivity,0.99
+Precision,0.9124423963133641
+Mean Sensitivity,0.7226923076923076
+Mean Precision,0.7129824678118714
+Class 13
+Sensitivity,0.47
+Precision,0.9306930693069307
+Mean Sensitivity,0.7046428571428571
+Mean Precision,0.7285332250615185
+Class 14
+Sensitivity,0.45
+Precision,0.24390243902439024
+Mean Sensitivity,0.6876666666666666
+Mean Precision,0.6962245059923766
+Class 15
+Sensitivity,0.125
+Precision,0.625
+Mean Sensitivity,0.6525000000000001
+Mean Precision,0.6917729743678531
+
+Confusion Matrix
+191,0,0,0,4,2,0,0,0,1,0,2,0,0,0,0
+0,69,2,7,20,0,5,0,9,3,16,3,0,0,65,1
+0,1,180,0,0,0,0,1,7,1,0,0,7,0,3,0
+8,11,0,136,5,0,3,0,6,4,6,0,0,1,20,0
+3,2,0,3,118,0,4,0,22,2,12,3,1,1,28,1
+2,0,0,0,7,179,0,4,0,1,1,3,0,0,0,3
+1,11,1,0,50,0,78,1,7,5,6,3,0,1,35,1
+1,0,0,2,3,2,5,141,10,3,6,6,0,0,18,3
+1,1,0,1,1,3,1,20,153,0,4,4,2,0,9,0
+8,3,2,0,0,0,0,0,0,155,12,1,1,1,17,0
+4,0,1,3,7,0,0,9,0,4,157,4,0,0,11,0
+4,6,2,0,18,0,5,2,4,3,8,124,0,1,21,2
+0,0,0,0,0,0,0,0,0,0,0,1,198,0,1,0
+11,1,0,13,1,0,2,0,2,42,10,0,0,94,24,0
+3,38,2,2,19,3,12,3,5,4,12,3,0,0,90,4
+3,12,0,0,75,0,16,6,0,3,16,7,8,2,27,25
